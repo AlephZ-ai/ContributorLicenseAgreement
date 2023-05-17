@@ -17,3 +17,4 @@ configuration:
       prohibitedCompanies:
       autoSignMsftEmployee: true
       signRepos:
+# Testing
